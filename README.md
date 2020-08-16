@@ -1,2 +1,3 @@
 # bts-fanpage
-A simple HTML webpage for UNC Coding Bootcamp Prework.
+* This is a simple HTML webpage for UNC Coding Bootcamp Prework.
+* It is hosted on Github Pages.
