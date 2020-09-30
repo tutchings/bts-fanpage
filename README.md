@@ -1,3 +1,8 @@
 # bts-fanpage
-* This is a simple HTML webpage for UNC Coding Bootcamp Prework.
-* It is currently hosted on Github Pages.
+
+## Deployed Project
+
+* [`BTS Fanpage`](https://tutchings.github.io/bts-fanpage/)
+
+## Description
+* This is a BTS fanpage built with HTML for UNC Coding Bootcamp Prework.
